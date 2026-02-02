@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="Horse1Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">At 1</Value>
+    </Setting>
+    <Setting Name="Horse2Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">At 2</Value>
+    </Setting>
+    <Setting Name="Horse3Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">At 3</Value>
+    </Setting>
+    <Setting Name="Horse4Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">At 4</Value>
+    </Setting>
+    <Setting Name="ThemeDark" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
