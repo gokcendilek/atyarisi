@@ -1,4 +1,4 @@
-# At Yarisi
+# At Yarisi Mini Oyun
 
 Bu proje, Windows Forms uzerinde gelistirilmis basit bir **at yarisi simulatorudur**.
 Her atin hizi ayarlanabilir, yaris ilerlemesi izlenir, kazananlar kaydedilir ve rapor disari aktarilabilir.
